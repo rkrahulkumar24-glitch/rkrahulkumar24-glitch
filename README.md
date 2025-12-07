@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm  Rahul Kumar Verma👋
 
-<!--
-**rkrahulkumar24-glitch/rkrahulkumar24-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from Delhi
 
-Here are some ideas to get you started:
+* 🔭 I’m currently working on github ( learning from skillup online )
+* 🌱 I’m currently learning Data Analytics
+* 👯 I’m looking to collaborate on ...
+* 💬 Ask me about ... any pharma queries
+* 📫 How to reach me: rkrahulkumar24@gmail.com
+* ⚡ Fun fact: ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ My Tech Stack
+
+Data Anayltics 
+Excel
+---
+
+### 🔗 Connect with me:
+
 -->
