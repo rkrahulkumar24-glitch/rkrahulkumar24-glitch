@@ -13,8 +13,9 @@
 
 ### 🛠️ My Tech Stack
 
-Data Anayltics 
+Data Anayltcs
 Excel
+Phython
 ---
 
 ### 🔗 Connect with me:
